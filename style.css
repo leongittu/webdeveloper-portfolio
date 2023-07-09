@@ -128,7 +128,7 @@ main {
 }
 
 .section-description {
-    padding: 0px 157px 0px 156px;
+    padding: 0px 157px 0px 120px;
     color: #757575;
     text-align: center;
     font-size: 18px;
@@ -152,4 +152,11 @@ main {
 
 .about-info {
     text-align: center;
+}
+#what-i-do{
+    padding: 30px 150px;
+}
+/*skill*/
+.skills-container{
+    display: flex;
 }
